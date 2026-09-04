@@ -24,7 +24,7 @@ ones (inferred but not fully verified).
 
 ## Project Steering Directives
 
-If `.agent-fox/steering.md` exists in the project root, read it and follow any
+If `.specs/steering.md` exists in the project root, read it and follow any
 directives it contains before proceeding. These project-level directives apply
 to all agents and skills working on this project.
 
@@ -114,7 +114,7 @@ Print progress:
 Read these files if they exist:
 - `README.md`
 - `CLAUDE.md` or `AGENTS.md`
-- `.agent-fox/steering.md`
+- `.specs/steering.md`
 
 ### 3.2 Explore project structure
 
